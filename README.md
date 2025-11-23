@@ -67,7 +67,3 @@ Java 8+
 Swing (JFrame, JPanel, Timer)
 
 AWT Graphics2D
-
-Shadow and highlight effects
-
-Responsive messages indicating game flow
