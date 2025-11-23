@@ -27,8 +27,6 @@ Smooth token stacking (if multiple tokens overlap)
 
 Tokens animate and highlight when selectable
 
-Rules implemented:
-
 Token enters path only on rolling 6
 
 Tokens move according to dice value
@@ -39,7 +37,6 @@ Safe-zone protection
 
 Reaching final home square
 
-Win condition when all 4 tokens reach home
 
 4. Graphics & UI
 
@@ -54,13 +51,13 @@ Center triangles like original Ludo
 
 Must roll 6 to activate a token from home
 
-Landing on enemy → capture
+Landing on enemy let's you capture their token
 
-Landing on safe spot → no capture
+Landing on safe spot you cannot capture
 
-Rolling 6, capturing, or reaching home → extra turn
+Rolling 6, capturing, or reaching home gets an extra turn
 
-All 4 tokens home → player wins
+All 4 tokens home then the player wins
 
 **Technologies Used:**
 
